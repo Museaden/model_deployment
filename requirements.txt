@@ -1,7 +1,0 @@
-Flask
-numpy
-scikit_learn
-gunicorn
-matplotlib
-pandas==1.4.0
-gunicorn
